@@ -236,3 +236,35 @@ main{
     margin-top: 50px;
 
 }
+/* Footer section */
+.footer{
+    background-color:#FFF8F3 ;
+    display: flex;
+    padding:130px 230px ;
+    /* align-items:center;
+    justify-content:space-between ; */
+    gap: 100px;
+
+}
+.footer-container{
+    width: 50%;
+}
+.footer-name{
+    font-size: 16px;
+    color: #757575;
+    border: none;
+    padding: 10px 30px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+.Hirebtn3{
+    color:white;
+    background-color:#FD6E0A ;
+    border: 1px solid #FD6E0A  ;
+    font-size:20px ;
+    font-weight: 700;
+    padding: 15px 35px;
+    border-radius: 5px;
+    /* margin-top: 50px; */
+}
