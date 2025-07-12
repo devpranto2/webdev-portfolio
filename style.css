@@ -223,7 +223,7 @@ main{
     
     height: 175px;
     width: 511px;
-    margin:0px;
+    margin:0px auto;
 }
 .Hirebtn2{
     color:white;
@@ -267,4 +267,11 @@ main{
     padding: 15px 35px;
     border-radius: 5px;
     /* margin-top: 50px; */
+    margin-left: 10px;
+}
+.fa-solid {
+    padding-right: 10px;
+}
+.sonail img{
+    padding: 10px;
 }
