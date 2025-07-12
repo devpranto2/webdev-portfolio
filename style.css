@@ -168,12 +168,71 @@ main{
     width: 265px;
     border: 1px solid white;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
 }
 .skill-description{
     color: #757575;
     font-size:16px ;
+    line-height:2.3 ;
 }
  main section{
     margin-top: 120px;
     margin-bottom: 120px;
  }
+
+
+ /* Resume part styles */
+ .resume{
+   text-align: center;
+ }
+ .resume-container{
+    display: flex;
+    text-align: left;
+    gap: 85px;
+ }
+
+ .resome-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+ }
+ .resume h3{
+    font-size: 35px;
+    color: #181818;
+    font-weight: bold;
+
+ }
+ .experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+ }
+ .experience-subtitle{
+    font-size: 20px;
+    font-weight:600;
+    color:#757575 ;
+ }
+
+ .experience-description{
+    font-size: 16px;
+    color: #757575;
+
+ }
+
+.experience{
+    
+    height: 175px;
+    width: 511px;
+    margin:0px;
+}
+.Hirebtn2{
+    color:white;
+    background-color:#FD6E0A ;
+    border: 2px solid #FD6E0A  ;
+    font-size:20px ;
+    font-weight: 700;
+    padding: 18px 35px;
+    border-radius: 5px;
+    margin-top: 50px;
+
+}
